@@ -1,0 +1,5 @@
+﻿  moc NameWindow.h
+  NameWindow.cpp
+  main.cpp
+  moc_NameWindow.cpp
+  GraphicsItem.vcxproj -> E:\VS2017\qt\Qt5Dev\chapter7\GraphicsItem\x64\Debug\GraphicsItem.exe

@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>FileWatcherClass</class>
+ <widget class="QWidget" name="FileWatcherClass" >
+  <property name="objectName" >
+   <string notr="true">FileWatcherClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>FileWatcher</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="FileWatcher.qrc"/>
+ </resources>
+ <connections/>
+</UI>

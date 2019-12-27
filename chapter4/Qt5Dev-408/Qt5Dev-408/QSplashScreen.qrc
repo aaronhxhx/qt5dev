@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QSplashScreen">
+        <file>Resources/image.jpg</file>
+    </qresource>
+</RCC>

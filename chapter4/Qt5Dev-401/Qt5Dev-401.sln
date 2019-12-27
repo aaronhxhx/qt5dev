@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DialogExample", "G:\book\qt\Qt5Dev-Examples-master\CH4\CH401\DialogExample\DialogExample.vcxproj", "{D68C195B-9CF0-38D5-A605-8729F63C42DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyQQExample", "G:\book\qt\Qt5Dev-Examples-master\CH4\CH402\MyQQExample\MyQQExample.vcxproj", "{FB226703-812D-3EB8-ACAF-E44B634F01CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D68C195B-9CF0-38D5-A605-8729F63C42DB}.Debug|x64.ActiveCfg = Debug|x64
+		{D68C195B-9CF0-38D5-A605-8729F63C42DB}.Debug|x64.Build.0 = Debug|x64
+		{D68C195B-9CF0-38D5-A605-8729F63C42DB}.Release|x64.ActiveCfg = Release|x64
+		{D68C195B-9CF0-38D5-A605-8729F63C42DB}.Release|x64.Build.0 = Release|x64
+		{FB226703-812D-3EB8-ACAF-E44B634F01CD}.Debug|x64.ActiveCfg = Debug|x64
+		{FB226703-812D-3EB8-ACAF-E44B634F01CD}.Debug|x64.Build.0 = Debug|x64
+		{FB226703-812D-3EB8-ACAF-E44B634F01CD}.Release|x64.ActiveCfg = Release|x64
+		{FB226703-812D-3EB8-ACAF-E44B634F01CD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC39B88A-B0E7-4C31-9FEE-76FD83DD41BD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+﻿  uic ExtensionDlg.ui
+  rcc ExtensionDlg.qrc
+  moc ExtensionDlg.h
+   RCC: Warning: No resources in 'E:\VS2017\qt\Qt5Dev\Qt5Dev-406\Qt5Dev-406\ExtensionDlg.qrc'.
+  ExtensionDlg.cpp
+  main.cpp
+  qrc_ExtensionDlg.cpp
+  moc_ExtensionDlg.cpp
+  Qt5Dev-406.vcxproj -> E:\VS2017\qt\Qt5Dev\Qt5Dev-406\x64\Debug\Qt5Dev-406.exe

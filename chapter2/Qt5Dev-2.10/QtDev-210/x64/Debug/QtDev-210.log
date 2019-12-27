@@ -1,0 +1,5 @@
+﻿  uic QtDev210.ui
+  QtDev210.cpp
+  main.cpp
+  moc_QtDev210.cpp
+  QtDev-210.vcxproj -> E:\VS2017\qt\Qt5Dev\Qt5Dev-2.10\x64\Debug\QtDev-210.exe

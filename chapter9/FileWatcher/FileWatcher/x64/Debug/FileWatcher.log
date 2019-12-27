@@ -1,0 +1,9 @@
+﻿  uic FileWatcher.ui
+  rcc FileWatcher.qrc
+  moc FileWatcher.h
+   RCC: Warning: No resources in 'E:\VS2017\qt\Qt5Dev\chapter9\FileWatcher\FileWatcher\FileWatcher.qrc'.
+  FileWatcher.cpp
+  main.cpp
+  qrc_FileWatcher.cpp
+  moc_FileWatcher.cpp
+  FileWatcher.vcxproj -> E:\VS2017\qt\Qt5Dev\chapter9\FileWatcher\x64\Debug\FileWatcher.exe

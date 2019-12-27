@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/image.png</file>
+        <file>Resources/Thumbs.db</file>
+    </qresource>
+</RCC>

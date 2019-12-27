@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QtDev305">
+        <file>Resources/image.jpg</file>
+    </qresource>
+</RCC>

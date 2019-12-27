@@ -1,0 +1,3 @@
+﻿  ImgProcessor.cpp
+e:\vs2017\vs\imageprocessor\imageprocessor\imgprocessor.cpp(320): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“QChar *”
+  ImageProcessor.vcxproj -> E:\VS2017\vs\ImageProcessor\x64\Debug\ImageProcessor.exe

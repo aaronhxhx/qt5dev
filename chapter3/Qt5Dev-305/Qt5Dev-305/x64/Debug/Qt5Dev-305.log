@@ -1,0 +1,23 @@
+﻿  Reading Qt configuration (E:\qt\5.12.3\msvc2017_64\bin\qmake.exe)
+  uic Qt5Dev305.ui
+  rcc Qt5Dev305.qrc
+  moc Qt5Dev305.h
+  moc contact.h
+  baseInfo.cpp
+  BaseInfo2.cpp
+  contact.cpp
+  detail.cpp
+  main.cpp
+  Qt5Dev305.cpp
+  qrc_Qt5Dev305.cpp
+  moc_Qt5Dev305.cpp
+  moc_contact.cpp
+BaseInfo2.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl BaseInfo2::metaObject(void)const " (?metaObject@BaseInfo2@@UEBAPEBUQMetaObject@@XZ)
+BaseInfo2.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl BaseInfo2::qt_metacast(char const *)" (?qt_metacast@BaseInfo2@@UEAAPEAXPEBD@Z)
+BaseInfo2.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl BaseInfo2::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@BaseInfo2@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+BaseInfo2.obj : error LNK2001: 无法解析的外部符号 "public: static struct QMetaObject const BaseInfo2::staticMetaObject" (?staticMetaObject@BaseInfo2@@2UQMetaObject@@B)
+detail.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl Detail::metaObject(void)const " (?metaObject@Detail@@UEBAPEBUQMetaObject@@XZ)
+detail.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl Detail::qt_metacast(char const *)" (?qt_metacast@Detail@@UEAAPEAXPEBD@Z)
+detail.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl Detail::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@Detail@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+detail.obj : error LNK2001: 无法解析的外部符号 "public: static struct QMetaObject const Detail::staticMetaObject" (?staticMetaObject@Detail@@2UQMetaObject@@B)
+E:\VS2017\qt\Qt5Dev\Qt5Dev-305\x64\Debug\\Qt5Dev-305.exe : fatal error LNK1120: 8 个无法解析的外部命令
